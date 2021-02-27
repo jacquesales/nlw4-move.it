@@ -1,0 +1,29 @@
+.profileContainer {
+  display: flex;
+  align-items: center;
+}
+
+.profileContainer > img {
+  width: 6.5rem;
+  height: 6.5rem;
+  border-radius: 50%;
+}
+
+.profileContainer div {
+  margin-left: 1.5rem;
+}
+
+.profileContainer div strong {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--title);
+}
+
+.profileContainer div p {
+  font-size: .9rem;
+  margin-top: .5rem;
+}
+
+.profileContainer div p img {
+  margin-right: .5rem;
+}
