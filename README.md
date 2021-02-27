@@ -9,13 +9,13 @@ Produção de uma aplicação dinâmica e interativa: _Move.it_ - O projeto util
 
 #### Principais conceitos:
 
--NEXT JS
--Typescript
--ContextAPI
--Types/js-cookie
--SEO
--SSR
--SSG
+- NEXT JS
+- Typescript
+- ContextAPI
+- Types/js-cookie
+- SEO
+- SSR
+- SSG
 
 
 #### Desenvolvimento
